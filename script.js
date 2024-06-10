@@ -1,4 +1,4 @@
-document.getElementById('test').innerHTML = 'HOla mundo'
+// document.getElementById('test').innerHTML = 'HOla mundo'
 
 
 
@@ -126,7 +126,7 @@ function agregarItemAlCarrito(titulo, precio, imagenSrc){
     itemsCarrito.append(item);
 
     //Agregamos la funcionalidad eliminar al nuevo item
-     item.getElementsByClassName('btn-eliminar')[0].addEventListener('click', eliminarItemCarrito);
+    item.getElementsByClassName('btn-eliminar')[0].addEventListener('click', eliminarItemCarrito);
 
     //Agregmos al funcionalidad restar cantidad del nuevo item
     var botonRestarCantidad = item.getElementsByClassName('restar-cantidad')[0];

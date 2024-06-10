@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-de-ecommerce-front-end-boots-compilar-a-sass",
+  "version": "1.0.0",
+  "description": "vamos a compilar a sass",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
