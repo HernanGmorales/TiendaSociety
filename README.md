@@ -1,6 +1,11 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### Preview Responsive Mockup
+### Ver ejemplo en vivo
+
+https://hernangmorales.github.io/TiendaSociety/
+
+
+## Preview Responsive Mockup
 
 ![](https://github.com/HernanGmorales/TiendaSociety/blob/master/previewMockup.png)
 
@@ -11,9 +16,7 @@ En este repositorio, encontrarás una colección cuidadosamente diseñada de her
 
 Además, hemos integrado las mejores prácticas de diseño utilizando Bootstrap para garantizar la accesibilidad y la compatibilidad entre dispositivos, junto con animaciones suaves y atractivas gracias a AOS (Animate on Scroll) y jQuery. El resultado es una experiencia de usuario cautivadora y moderna que deleitará a tus visitantes y usuarios.
 
-### Ver ejemplo en vivo
 
-https://hernangmorales.github.io/TiendaSociety/
 
 * ✉️  You can contact me at [hernangmoralesb@gmail.com](mailto:hernangmoralesb@gmail.com)
 
